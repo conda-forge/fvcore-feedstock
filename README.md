@@ -5,11 +5,13 @@ Home: https://github.com/facebookresearch/fvcore
 
 Package license: Apache-2.0
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fvcore-feedstock/blob/master/LICENSE.txt)
 
 Summary: Collection of common code shared among different research projects in FAIR computer vision team
 
+Development: https://github.com/facebookresearch/fvcore
 
+Documentation: https://github.com/facebookresearch/fvcore
 
 Current build status
 ====================

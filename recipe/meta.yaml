@@ -1,5 +1,5 @@
 {% set name = "fvcore" %}
-{% set version = "0.1.2.post20201016" %}
+{% set version = "0.1.2.post20201020" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 2c5af93fd670de8490db519bfab22905980e8276ce08b47098a29b917ef9cf0b
+  sha256: c6958ae34629b527930e15072a0aa395e9615f017ff1910ee6d50e28a02c17b4
 
 build:
   noarch: python
